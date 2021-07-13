@@ -1,0 +1,38 @@
+a{
+    text-decoration: none;
+    margin-left: 20px;
+    font-weight: 900;
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.login-form{
+   
+    
+
+
+}
+.login-container{
+    display: flex;
+    justify-content: center;
+    margin-top: 5%;
+}
+.login-form input, button{
+    font-size: 1.3em;
+    margin-top: 5px;
+    border: 2px solid gray;
+    
+}
+fieldset{
+    display: flex;
+    flex-direction: column;
+}
+button{
+    background-color: greenyellow;
+    font-weight: 700;
+    padding: 5px;
+}
